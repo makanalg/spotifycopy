@@ -1,0 +1,85 @@
+.ui.fixed.borderless.topmenu.menu {
+  background-color: black;
+  box-shadow: none;
+  border: none;
+  height: 75px;
+}
+
+.ui.borderless.menu {
+  background-color: black;
+  box-shadow: none;
+  border: none;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  height: 0px;
+}
+
+.text {
+  color:white;
+}
+
+.footer {
+  height: 200px;
+  padding-top: 20px;
+}
+
+.row {
+  padding-bottom: 12px;
+}
+
+.row.title {
+  color: gray;
+  font-size: 10px;
+}
+
+body {
+  margin-top: 75px;
+  font-family: 'Signika', sans-serif;
+  background-color: black;
+}
+
+.footer {
+  background-color: black;
+  padding-bottom: 50px;
+}
+
+.row {
+  color: white;
+}
+
+.instagram.big.icon {
+  color: white;
+}
+
+.twitter.big.icon {
+  color: white;
+}
+
+.facebook.big.icon {
+  color: white;
+}
+
+.ui.six.column.grid.container {
+  padding-top: 25px;
+  padding-bottom: 50px;
+  color:black;
+}
+
+.right.item.usa {
+  color: gray;
+  padding-top: 50px;
+  padding-bottom: 1px;
+  margin-bottom: 1px;
+  font-size: 10px;
+}
+
+.item.bottom {
+  font-size: 10px;
+  color: gray;
+}
+
+.ui.container.usa {
+  size: 1px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+}
